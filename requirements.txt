@@ -1,0 +1,6 @@
+
+fastapi
+uvicorn[standard]
+databases
+databases[aiosqlite]
+aiohttp
