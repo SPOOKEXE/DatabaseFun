@@ -1,0 +1,24 @@
+Roblox Portfolio
+
+------------------
+
+Private Info:
+- email address
+- 2 factor auth (optional, key=USER_ID+SYSTEM_SALT)
+- current login sessions (IP, region, date logged in and last activity)
+- hooked roblox user + roVer/Bloxlink Verification
+
+Public Profile:
+- roblox verified
+- roblox username
+- roblox display name
+- roblox user profile link
+
+- discord user (changeable, optional)
+- Highlighted Games (changeable, optional)
+- Highlighted Groups (changeable, optional)
+- External Links (GitHub, YouTube, Twitter)
+
+-- References --
+https://www.geeksforgeeks.org/two-factor-authentication-using-google-authenticator-in-python/
+
